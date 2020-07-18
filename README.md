@@ -1,2 +1,2 @@
 # kon.github.io
-igthub pages
+github pages
