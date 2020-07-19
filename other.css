@@ -1,0 +1,38 @@
+#top {
+    background-color: #ccc;
+    padding: 10px;
+}
+
+
+
+#top h1 {
+    color: #ff0;
+}
+
+#top p {
+    color:red;
+    font-weight:bold;
+}
+
+a:active {
+    color: red;
+}
+
+a:link {
+    color:blue;
+}
+
+a:visited {
+    color:purple;
+}
+
+a:hover {
+    text-decoration: none;
+    color: blue;
+    background-color: yellow  
+}
+
+.intro {
+    color: red;
+    font-weight: bold;
+}
